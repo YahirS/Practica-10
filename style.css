@@ -3,6 +3,7 @@ body{
     padding: 0;
     background: url(imagen.jpg);
     background-size: cover;
+    
   }
   .contact-form{
     width: 85%;
